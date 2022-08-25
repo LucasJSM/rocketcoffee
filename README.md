@@ -1,4 +1,5 @@
 # RocketCoffee
 
-<p>Projeto realizado com HTML, CSS e JavaScript</p>
+Realizado com HTML e CSS, o projeto RocketCoffee é um cardápio adaptável e responsivo.
 
+![Página principal do cardápio](./assets/imgs/initial-page.png "Página principal do cardápio");
